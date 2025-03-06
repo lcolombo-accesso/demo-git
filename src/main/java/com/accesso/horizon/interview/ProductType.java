@@ -1,5 +1,5 @@
 package com.accesso.horizon.interview;
 
 public enum ProductType {
-	FOOD_AND_BEVERAGE, TICKET, GADGET
+	FOOD_AND_BEVERAGE, TICKET, MERCHANDISE, GADGET
 }
